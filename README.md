@@ -70,6 +70,7 @@
 </figure>
 
 - 성능이 좋지 않은 것을 확인
+-
 
 4. 두 번째 도전한 Library와 모델
 - mmsegmentation
@@ -91,7 +92,7 @@
 
 <figure>
     - test image는 건물이 아닌 곳을 건물이라고 인식한 부분도 존재한다.
-    <img src="./extra/FPN_1.png"> <br>
+    <img src="./extra/segformer_test_infer2.png"> <br>
 </figure>
 
 5. 이에 대해 생각한 해결 방안
