@@ -1,5 +1,5 @@
 ## Building-segmentation
--
+
 1. Train Dataset (1024*1024)
 - train image와, encode된 csv 파일
 
