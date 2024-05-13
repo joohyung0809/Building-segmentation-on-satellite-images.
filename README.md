@@ -70,7 +70,6 @@
 </figure>
 
 - 성능이 좋지 않은 것을 확인
--
 
 4. 두 번째 도전한 Library와 모델
 - mmsegmentation
